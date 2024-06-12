@@ -1,0 +1,31 @@
+body {
+  backgroud-color:383D58;
+  color:white;
+}
+.cabecalho {
+  backgroud-color:383D58;
+  color:white;
+  display:flex;
+  justify-content:space-around;
+  padding: 24px 0;
+}
+.cabecalho-lista-item{
+  display:inline-block;
+  margin: 0 16px;
+  padding: 24px 0;
+  font-size: 24px;
+}
+.escola-imagem{
+  width:20%;
+}
+.escola{
+  background-image: linear-gradient (#383d58,#00c0eb);
+  color: write;
+  display: flex;
+}
+.escola-conteudo{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  aling-item:center;
+}
